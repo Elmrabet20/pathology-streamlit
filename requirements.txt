@@ -5,4 +5,4 @@ pandas
 psutil
 Pillow
 git+https://github.com/opencv/opencv-python.git
-
+opencv-python-headless
